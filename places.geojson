@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Kienlen",
+        "Review": "5 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.28976440429688,
+          38.67210881558816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Market",
+        "Review": "4 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23002624511719,
+          38.65441572712308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Porters Fried Cicken",
+        "Review": "3 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.32615661621094,
+          38.601846852838094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Tower Grove",
+        "Review": "2 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.26504516601562,
+          38.62169881367633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Friedleys",
+        "Review": "1 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25131225585938,
+          38.59540719940386
+        ]
+      }
+    }
+  ]
+}
